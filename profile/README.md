@@ -18,7 +18,7 @@
 
 
 ### 📖欢迎参与
-我们非常欢迎大家加入我们的校内社群：CUG-Geoinformation
+我们非常欢迎大家加入我们的校内社群：CUG测绘地理大帐篷
 <h3 align="center">
 	<img src="../images/group.jpg" width="200" alt="Logo"/><br/>
 </h3>
@@ -30,7 +30,6 @@
 
 如果你是中国地质大学（武汉）的老师、同学并且有兴趣为计划贡献力量，请大胆联系我们！
 
-- 飞书群：https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=b30qd8d3-1750-4efe-b8c4-c1b362ef78f6
 - 团队临时邮箱：2643136544@qq.com
 
 我们计划在运营一段时间后将项目扩展到其他院校，如果你也是测绘与地理信息相关专业的本科或研究生（包含但不限于测绘科学与技术、地理学、遥感科学与技术等一级学科），而且对我们的倡议也有兴趣，也欢迎email我们！
